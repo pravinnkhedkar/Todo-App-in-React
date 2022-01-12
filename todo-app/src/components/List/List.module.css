@@ -1,0 +1,14 @@
+.doneItem {
+    background-color: chartreuse;
+}
+
+.itemList {
+    width: 100px;
+    display: inline-block;
+}
+
+.list {
+    margin: 10px;
+    padding: 10px;
+    
+}
